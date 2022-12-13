@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @FateAhmed
+- 👀 I’m interested in Flutter and backend technologies
+- 🌱 I’m currently learning Nuxt and .Net
+- 💞️ I’m looking to collaborate on flutter and nodeJs projects
+- 📫 Reach me at mailto:ahmad@ahmadt.com
+- ✌🏻 Portfolio https://ahmadt.com/
