@@ -2,5 +2,5 @@
 - 👀 I’m interested in Flutter and backend technologies
 - 🌱 I’m currently learning Nuxt and .Net
 - 💞️ I’m looking to collaborate on flutter and nodeJs projects
-- 📫 Reach me at ahmad@ahmadt.com
+- 📫 Reach me at ahmad.arshad19@yahoo.com
 - ✌🏻 Portfolio https://ahmadt.com/
